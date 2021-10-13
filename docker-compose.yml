@@ -9,4 +9,3 @@ services:
     container_name: calculadoraWeb
     ports:
       - "8087:6000"
-  
