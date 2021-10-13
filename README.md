@@ -63,6 +63,16 @@ Ahora el funcionamiento con el Logaritmo base 10
 
 ![](imagenes/logaritmo.png)
 
+## Video
+
+Anexo link a youtube del video de comprobacion 
+-------------------------------
+https://youtu.be/O9w9TGbVQSM
+------------------------------
+
+
+#Autor
+# Juan Manuel Herrera Moya 
 
 
 
